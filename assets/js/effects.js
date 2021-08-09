@@ -1,7 +1,7 @@
 /* Typewriting Effect */
 var i = 0;
-var txt = 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ratione inventore possimus veritatis delectus voluptatem nemo laudantium quidem molestiae illum harum deleniti, praesentium facilis dolore? Consequuntur, tempore. Tempore est dolorem optio?';
-var speed = 20;
+var txt = '   Hello world! My name is Richard and I am a chemistry graduate with a Masters degree from the University of Warwick. I have an interest in coding and I love to learn and develop new skills. Here you can find my projects that I have been using to develop my coding skills. These projects range from web design and development, to games made using various game engines. Scroll down to see more...';
+var speed = 15;
 
 function typeWriter() {
   if (i < txt.length) {
